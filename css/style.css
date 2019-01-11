@@ -94,9 +94,7 @@ h1, h2, h3 {
 .text-center {
     text-align: center !important;
 }
-.pl-80 {
-    padding-left: 80px;
-}
+
 .pt-90 {
     padding-top: 90px;
 }
@@ -147,7 +145,6 @@ h1, h2, h3 {
     z-index: 9;
     text-align: center;
     padding: 15px;
-    width: 100%;
     font-family: DecimaBold, sans-serif;
     text-transform: uppercase;
 }
@@ -557,10 +554,34 @@ h1, h2, h3 {
     }
 }
 
+.content {
+    margin-right: 40px;
+    margin-left: 40px;
+}
 /*******************end burger***************************/
+@media (min-width: 1500px) {
+    .header-content_top .content {
+        max-width: 1310px;
+        margin: auto;
+    }
+    .nav ul {
+        margin-right: 35px;
+    }
+}
 
 @media (min-width: 1300px) {
     .container {
         max-width: 1350px !important;
+    }
+
+    .nav_logo {
+        padding-left: 80px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .container {
+        width: 100%;
+        max-width: 100% !important;
     }
 }

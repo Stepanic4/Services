@@ -2,27 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53b4f812-05d9-4e77-96a4-8395b1ce24aa" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome/fontawesome-webfont.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/DecimaNovaPro/DecimaNovaPro-Bold.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/DecimaNovaPro/DecimaNovaPro-Bold.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/DecimaNovaPro/DecimaNovaPro-BoldItalic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/DecimaNovaPro/DecimaNovaPro-BoldItalic.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/DecimaNovaPro/DecimaNovaPro-Italic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/DecimaNovaPro/DecimaNovaPro-Italic.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/DecimaNovaPro/DecimaNovaPro.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/DecimaNovaPro/DecimaNovaPro.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/PTSerif/OFL.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/PTSerif/OFL.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/PTSerif/PT_Serif-Web-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/PTSerif/PT_Serif-Web-Bold.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/PTSerif/PT_Serif-Web-BoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/PTSerif/PT_Serif-Web-BoldItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/PTSerif/PT_Serif-Web-Italic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/PTSerif/PT_Serif-Web-Italic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/PTSerif/PT_Serif-Web-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/PTSerif/PT_Serif-Web-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/line.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/custom.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,20 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-177">
-              <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="custom.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/custom.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="-440">
+              <caret line="226" column="27" selection-start-line="226" selection-start-column="27" selection-end-line="226" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -57,8 +28,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="138" column="18" selection-start-line="138" selection-start-column="18" selection-end-line="138" selection-end-column="18" />
+            <state relative-caret-position="395">
+              <caret line="558" column="22" selection-start-line="558" selection-start-column="22" selection-end-line="558" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -115,7 +86,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,12 +101,6 @@
             <path>
               <item name="Services" type="b2602c69:ProjectViewProjectNode" />
               <item name="Services" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="font-awesome.css" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="Services" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Services" type="462c0819:PsiDirectoryNode" />
               <item name="fonts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -148,8 +112,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -234,12 +199,13 @@
       <option name="presentableId" value="Default" />
       <updated>1547037915790</updated>
       <workItem from="1547037918625" duration="9690000" />
-      <workItem from="1547118174400" duration="28245000" />
+      <workItem from="1547118174400" duration="29237000" />
+      <workItem from="1547195753944" duration="2654000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37935000" />
+    <option name="totallyTimeSpent" value="41581000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -258,7 +224,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32996634" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25349087" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25725028" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -275,32 +241,32 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="bottom" id="Run" order="6" />
       <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24973147" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Capture Tool" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="Maven Projects" order="5" />
-      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,11 +278,22 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="42" column="60" selection-start-line="42" selection-start-column="60" selection-end-line="42" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3432">
+          <caret line="156" column="28" selection-start-line="156" selection-start-column="28" selection-end-line="156" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1188">
           <caret line="54" column="53" lean-forward="true" selection-start-line="54" selection-start-column="53" selection-end-line="54" selection-end-column="53" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -344,16 +321,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-177">
-          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -361,10 +328,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-440">
+          <caret line="226" column="27" selection-start-line="226" selection-start-column="27" selection-end-line="226" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="138" column="18" selection-start-line="138" selection-start-column="18" selection-end-line="138" selection-end-column="18" />
+        <state relative-caret-position="395">
+          <caret line="558" column="22" selection-start-line="558" selection-start-column="22" selection-end-line="558" selection-end-column="22" />
         </state>
       </provider>
     </entry>
