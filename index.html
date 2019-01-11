@@ -18,6 +18,9 @@
 <header>
 
     <!--*****mobile****-->
+    <a href="#" class="logo_mobile">
+        <img src="img/logo.png" alt="Logo">
+    </a>
     <div class="menu-collapsed">
         <div class="bar" style="position: absolute;"></div>
         <nav>
@@ -39,12 +42,12 @@
             <div class="wrap border-blue_top">
                 <div class="content">
                     <div class="nav row pt-30">
-                        <div class="col-6 text-left">
+                        <div class="col-xxl-6 col-xl-3 col-md-3 text-left">
                             <a href="#" class="nav_logo">
                                 <img src="img/logo.png" alt="Logo">
                             </a>
                         </div>
-                        <div class="col-6">
+                        <div class="col-xxl-6 col-xl-9 col-md-9">
                             <ul class="mb-0 pl-0">
                                 <li><a href="#" class="menu-item">Case studies</a></li>
                                 <li><a href="#" class="menu-item">Services</a></li>
@@ -76,13 +79,21 @@
                 <div class="content">
                     <div class="row">
                         <div class="col-12">
-                            <ul class="header-content_bottom__list">
+                            <ul class="header-content_bottom__list d-mobile-hidden">
                                 <li><a href="#">All</a></li>
                                 <li><a href="#">Mobile apps</a></li>
                                 <li><a href="#">Web services</a></li>
                                 <li><a href="#">Augmented reality</a></li>
                                 <li><a href="#">ux/ui design</a></li>
                                 <li><a href="#">Development</a></li>
+                            </ul>
+                            <ul class="header-content_bottom__list d-mobile-block">
+                                <li><a href="#">All</a></li>
+                                <li><a href="#">Mobile</a></li>
+                                <li><a href="#">Web</a></li>
+                                <li><a href="#">Ar</a></li>
+                                <li><a href="#">ux</a></li>
+                                <li><a href="#">Dev</a></li>
                             </ul>
                         </div>
                     </div>
@@ -206,9 +217,13 @@
                     <div class="row">
                         <div class="col-12 text-center">
                             <div class="main_bottom_content_text">
-                                <h1>We enjoy what we do.<br>
+                                <h1 class="text-desktop">We enjoy what we do.<br>
                                     Working with smart people at great projects.<br>
                                     Contact us if you want to work with us.
+                                </h1>
+                                <h1 class="text-mobile">
+                                    We enjoy working with smart people on challenging tasks and deliver great products.
+                                    Let's team up to create something worth the effort.
                                 </h1>
                                 <button>
                                     Contact Us
